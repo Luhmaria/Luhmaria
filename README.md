@@ -19,14 +19,14 @@
   <img width="150" height="150" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/memoji.png">
  </picture>
  <p><strong>Great to see you here</strong></p>
- <p>How about we connect on <a align="center" href="https://www.linkedin.com/in/luanamariacarneiro/">LinkedIn</a>? 💙 </p>
+ <p>How about we connect on <a align="center" href="https://www.linkedin.com/in/luanamariacarneiro/" target="_blank">LinkedIn</a>? 💙 </p>
 </div>
 <details>
   <summary>Icons's credit</summary>
- <a href="https://www.flaticon.com/free-icons/visual-studio" title="visual studio icons">Visual studio icons created by Freepik - Flaticon</a>
+ <a target="_blank" href="https://www.flaticon.com/free-icons/visual-studio" title="visual studio icons">Visual studio icons created by Freepik - Flaticon</a>
  <br/>
- <a href="https://www.flaticon.com/free-icons/figma" title="figma icons">Figma icons created by pancaza - Flaticon</a>
+ <a target="_blank" href="https://www.flaticon.com/free-icons/figma" title="figma icons">Figma icons created by pancaza - Flaticon</a>
  <br/>
- <a href="https://www.flaticon.com/free-animated-icons/brain" title="brain animated icons">Brain animated icons created by Freepik - Flaticon</a>
+ <a target="_blank" href="https://www.flaticon.com/free-animated-icons/brain" title="brain animated icons">Brain animated icons created by Freepik - Flaticon</a>
 </details>
 
