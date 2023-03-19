@@ -8,7 +8,7 @@
 <hr></hr>
 <h1 color=""> ${\color{#7A93AC}Skills}$ <picture> <img height="40" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain.gif"></picture> </h1>
 <picture>
- <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/updated-skills.png">
+ <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/skills.png">
 </picture>
 <!-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luhmaria&show_icons=true&theme=transparent)
