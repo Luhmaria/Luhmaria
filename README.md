@@ -1,12 +1,12 @@
 <picture>
- <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/header-gif.gif">
+ <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/header-gif-updated.gif">
 </picture>
 <br></br>
-🚀 I'm improving my skills at Kenzie Academy Brasil - almost a Front-End by now :D
+🚀 I'm improving my skills at Kenzie Academy Brasil - almost a Front-End developer by now :D
 <br></br>
 😀 Want to know more about this journey? I'm happy to share my evolution on the repositories below. Check it out!
 <hr></hr>
-<h1 color=""> ${\color{#7A93AC}Skills}$ <picture> <img align="center" height="40" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain-unscreen.gif"></picture> </h1>
+<h1> ${\color{#7A93AC}Skills}$ <picture> <img align="center" height="35" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain-unscreen.gif"></picture> </h1>
 <picture>
  <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/skills.png">
 </picture>
