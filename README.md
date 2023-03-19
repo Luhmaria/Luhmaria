@@ -6,7 +6,7 @@
 <br></br>
 😀 Want to know more about this journey? I'm happy to share my evolution on the repositories below. Check it out!
 <hr></hr>
-<h1 color=""> ${\color{#7A93AC}Skills}$ <picture> <img height="40" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain-unscreen.gif"></picture> </h1>
+<h1 color=""> ${\color{#7A93AC}Skills}$ <picture> <img align="center" height="40" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain-unscreen.gif"></picture> </h1>
 <picture>
  <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/skills.png">
 </picture>
@@ -19,14 +19,14 @@
   <img width="150" height="150" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/memoji.png">
  </picture>
  <p><strong>Great to see you here</strong></p>
- <p>How about we connect on <a align="center" href="https://www.linkedin.com/in/luanamariacarneiro/" target="_blank">LinkedIn</a>? 💙 </p>
+ <p>How about we connect on <a align="center" href="https://www.linkedin.com/in/luanamariacarneiro/">LinkedIn</a>? 💙 </p>
 </div>
 <details>
   <summary>Icons's credit</summary>
- <a target="_blank" href="https://www.flaticon.com/free-icons/visual-studio" title="visual studio icons">Visual studio icons created by Freepik - Flaticon</a>
+ <a  href="https://www.flaticon.com/free-icons/visual-studio" title="visual studio icons">Visual studio icons created by Freepik - Flaticon</a>
  <br/>
- <a target="_blank" href="https://www.flaticon.com/free-icons/figma" title="figma icons">Figma icons created by pancaza - Flaticon</a>
+ <a  href="https://www.flaticon.com/free-icons/figma" title="figma icons">Figma icons created by pancaza - Flaticon</a>
  <br/>
- <a target="_blank" href="https://www.flaticon.com/free-animated-icons/brain" title="brain animated icons">Brain animated icons created by Freepik - Flaticon</a>
+ <a  href="https://www.flaticon.com/free-animated-icons/brain" title="brain animated icons">Brain animated icons created by Freepik - Flaticon</a>
 </details>
 
