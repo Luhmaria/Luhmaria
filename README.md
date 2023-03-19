@@ -6,7 +6,7 @@
 <br></br>
 😀 Want to know more about this journey? I'm happy to share my evolution on the repositories below. Check it out!
 <hr></hr>
-<h1 color=""> ${\color{#7A93AC}Skills}$ <picture> <img height="40" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain.gif"></picture> </h1>
+<h1 color=""> ${\color{#7A93AC}Skills}$ <picture> <img height="40" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain-unscreen.gif"></picture> </h1>
 <picture>
  <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/skills.png">
 </picture>
