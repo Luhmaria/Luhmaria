@@ -8,5 +8,5 @@
 <hr></hr>
 
 <picture>
- <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/skills.png">
+ <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/skills - bold.png">
 </picture>
