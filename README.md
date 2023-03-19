@@ -1,6 +1,5 @@
-### Hi there 👋
 <picture>
- <img src="https://camo.githubusercontent.com/637e97bc51484b4e3a9ddb4dff6d86264200ef70a0837340c459615c994ac81f/68747470733a2f2f6769746875622d776964676574626f782e76657263656c2e6170702f6170692f736b696c6c733f6c616e6775616765733d6a732c68746d6c2c63737326696e636c7564654e616d65733d74727565" height="250">
+ <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/header-gif.gif">
 </picture>
 
 <!--
