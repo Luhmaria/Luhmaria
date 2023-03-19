@@ -7,3 +7,6 @@
 😀 Want to know more about this journey? I'm happy to share my evolution on the repositories below. Check it out!
 <hr></hr>
 
+<picture>
+ <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/skills.png">
+</picture>
