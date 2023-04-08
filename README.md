@@ -5,7 +5,13 @@
 🚀 I'm improving my skills at Kenzie Academy Brasil - almost a Front-End developer by now :D
 <br></br>
 😀 Want to know more about this journey? I'm happy to share my evolution on the repositories below. Check it out!
-<hr></hr>
+<br></br>
+:construction: The content is gonna be released soon! :construction:
+<br></br>
+
+<a href="https://github.com/Luhmaria/Kenzie_M1"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/Module_button.png"> </a>
+
+
 <h1> ${\color{#7A93AC}Skills}$ <picture> <img align="center" height="35" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain-unscreen.gif"></picture> </h1>
 <picture>
  <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/skills.png">
