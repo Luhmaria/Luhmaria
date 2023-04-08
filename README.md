@@ -9,7 +9,7 @@
 :construction: The content is gonna be released soon! :construction:
 <br></br>
 
-<a href="https://github.com/Luhmaria/Kenzie_M1"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/Module_button.png"> </a> &nbsp; &nbsp;
+<a href="https://github.com/Luhmaria/Kenzie_M1"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/bigger_btn.png"> </a> &nbsp; &nbsp;
 <a href="https://github.com/Luhmaria/Kenzie_M2"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/M2_button.png"> </a> &nbsp; &nbsp;
 <a href="https://github.com/Luhmaria/Kenzie_M3"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/M3_button.png"> </a> &nbsp; &nbsp;
 
