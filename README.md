@@ -9,7 +9,9 @@
 :construction: The content is gonna be released soon! :construction:
 <br></br>
 
-<a href="https://github.com/Luhmaria/Kenzie_M1"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/Module_button.png"> </a>
+<a href="https://github.com/Luhmaria/Kenzie_M1"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/Module_button.png"> </a> &nbsp; &nbsp;
+<a href="https://github.com/Luhmaria/Kenzie_M2"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/M2_button.png"> </a> &nbsp; &nbsp;
+<a href="https://github.com/Luhmaria/Kenzie_M3"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/M3_button.png"> </a> &nbsp; &nbsp;
 
 
 <h1> ${\color{#7A93AC}Skills}$ <picture> <img align="center" height="35" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain-unscreen.gif"></picture> </h1>
