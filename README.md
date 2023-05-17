@@ -14,15 +14,15 @@
 <a href="https://github.com/Luhmaria/TechAfroPretas"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/techafropretas.png"> </a> &nbsp; &nbsp;
 <h1> Skills <picture> <img align="center" height="35" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain-unscreen.gif"></picture> </h1>
 <picture>
- <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/languages.png">
+ <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/languages.png" style="width: 30%;">
 </picture>
 <br></br>
 <picture>
- <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/tools.png">
+ <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/libs.png" style="width: 30%;">
 </picture>
 <br></br>
 <picture>
- <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/libs.png">
+ <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/tools.png" style="width: 30%;">
 </picture>
 <!-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luhmaria&show_icons=true&theme=transparent)
@@ -42,13 +42,22 @@
  <a  href="https://www.flaticon.com/free-icons/figma" title="figma icons">Figma icons created by pancaza - Flaticon</a>
  <br/>
  <a  href="https://www.flaticon.com/free-animated-icons/brain" title="brain animated icons">Brain animated icons created by Freepik - Flaticon</a>
- <a href="[https://www.flaticon.com/free-icons/coding](https://www.flaticon.com/free-icons/coding)" title="coding icons">Coding icons created by Freepik - Flaticon</a>
-<a href="[https://www.flaticon.com/free-icons/space-shuttle](https://www.flaticon.com/free-icons/space-shuttle)" title="space shuttle icons">Space shuttle icons created by ultimatearm - Flaticon</a>
-<a href="[https://www.flaticon.com/free-icons/code](https://www.flaticon.com/free-icons/code)" title="code icons">Code icons created by Paul J. - Flaticon</a>
-<a href="[https://www.flaticon.com/free-icons/bee](https://www.flaticon.com/free-icons/bee)" title="bee icons">Bee icons created by Freepik - Flaticon</a>
-<a href="[https://www.flaticon.com/free-icons/typescript](https://www.flaticon.com/free-icons/typescript)" title="typescript icons">Typescript icons created by Freepik - Flaticon</a>
-<a href="[https://www.flaticon.com/free-icons/react](https://www.flaticon.com/free-icons/react)" title="react icons">React icons created by Kiranshastry - Flaticon</a>
-<a href="[https://www.flaticon.com/br/icones-gratis/java](https://www.flaticon.com/br/icones-gratis/java)" title="java ícones">Java ícones criados por Freepik - Flaticon</a>
-<a href="[https://www.flaticon.com/free-icons/sql](https://www.flaticon.com/free-icons/sql)" title="sql icons">Sql icons created by phatplus - Flaticon</a>
+ <br/>
+ <a href="https://www.flaticon.com/free-icons/coding" title="coding icons">Coding icons created by Freepik - Flaticon</a>
+ <br/>
+<a href="https:///www.flaticon.com/free-icons/space-shuttle" title="space shuttle icons">Space shuttle icons created by ultimatearm - Flaticon</a>
+ <br/>
+<a href="https://www.flaticon.com/free-icons/code" title="code icons">Code icons created by Paul J. - Flaticon</a>
+ <br/>
+<a href="https://www.flaticon.com/free-icons/bee" title="bee icons">Bee icons created by Freepik - Flaticon</a>
+ <br/>
+<a href="https://www.flaticon.com/free-icons/typescript" title="typescript icons">Typescript icons created by Freepik - Flaticon</a>
+ <br/>
+<a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Kiranshastry - Flaticon</a>
+ <br/>
+<a href="https://www.flaticon.com/br/icones-gratis/java" title="java ícones">Java ícones criados por Freepik - Flaticon</a>
+ <br/>
+<a href="https://www.flaticon.com/free-icons/sql" title="sql icons">Sql icons created by phatplus - Flaticon</a>
+ <br/>
 </details>
 
