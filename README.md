@@ -7,10 +7,14 @@
 :construction: The content is gonna be released soon! :construction:
 <br></br>
 <h1>Kenzie Journey</h1>
+Here's where you can see my begin in web development going from simple HTML pages to complex projects using React.
+<br></br>
 <a href="https://github.com/Luhmaria/Kenzie_M1"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/M1_button.png"> </a> &nbsp; &nbsp;
 <a href="https://github.com/Luhmaria/Kenzie_M2"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/M2_button.png"> </a> &nbsp; &nbsp;
 <a href="https://github.com/Luhmaria/Kenzie_M3"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/M3_button.png"> </a> &nbsp; &nbsp;
 <h1>Tech Afro Pretas Journey</h1>
+Here's where I start to know more about backend and do my first two projects using Java.
+<br></br>
 <a href="https://github.com/Luhmaria/TechAfroPretas"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/techafropretas.png"> </a> &nbsp; &nbsp;
 <h1> Skills <picture> <img align="center" height="35" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain-unscreen.gif"></picture> </h1>
 <picture>
