@@ -2,21 +2,27 @@
  <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/header-gif-updated.gif">
 </picture>
 <br></br>
-🚀 I'm a front end developer! 
-<br></br>
-😀 Want to know more about this journey? I'm happy to share my evolution on the repositories below. Check it out!
+🚀 I'm currently a front end developer improving my skills to become a full stack developer. All of my abilities were gained from bootcamps and I share about that on repositories below. Check it out! :) 
 <br></br>
 :construction: The content is gonna be released soon! :construction:
 <br></br>
-
+<h1>Kenzie Journey</h1>
 <a href="https://github.com/Luhmaria/Kenzie_M1"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/M1_button.png"> </a> &nbsp; &nbsp;
 <a href="https://github.com/Luhmaria/Kenzie_M2"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/M2_button.png"> </a> &nbsp; &nbsp;
 <a href="https://github.com/Luhmaria/Kenzie_M3"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/M3_button.png"> </a> &nbsp; &nbsp;
-
-
-<h1> ${\color{#7A93AC}Skills}$ <picture> <img align="center" height="35" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain-unscreen.gif"></picture> </h1>
+<h1>Tech Afro Pretas Journey</h1>
+<a href="https://github.com/Luhmaria/TechAfroPretas"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/techafropretas.png"> </a> &nbsp; &nbsp;
+<h1> Skills <picture> <img align="center" height="35" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain-unscreen.gif"></picture> </h1>
 <picture>
- <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/skills.png">
+ <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/languages.png">
+</picture>
+<br></br>
+<picture>
+ <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/tools.png">
+</picture>
+<br></br>
+<picture>
+ <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/libs.png">
 </picture>
 <!-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luhmaria&show_icons=true&theme=transparent)
@@ -36,5 +42,13 @@
  <a  href="https://www.flaticon.com/free-icons/figma" title="figma icons">Figma icons created by pancaza - Flaticon</a>
  <br/>
  <a  href="https://www.flaticon.com/free-animated-icons/brain" title="brain animated icons">Brain animated icons created by Freepik - Flaticon</a>
+ <a href="[https://www.flaticon.com/free-icons/coding](https://www.flaticon.com/free-icons/coding)" title="coding icons">Coding icons created by Freepik - Flaticon</a>
+<a href="[https://www.flaticon.com/free-icons/space-shuttle](https://www.flaticon.com/free-icons/space-shuttle)" title="space shuttle icons">Space shuttle icons created by ultimatearm - Flaticon</a>
+<a href="[https://www.flaticon.com/free-icons/code](https://www.flaticon.com/free-icons/code)" title="code icons">Code icons created by Paul J. - Flaticon</a>
+<a href="[https://www.flaticon.com/free-icons/bee](https://www.flaticon.com/free-icons/bee)" title="bee icons">Bee icons created by Freepik - Flaticon</a>
+<a href="[https://www.flaticon.com/free-icons/typescript](https://www.flaticon.com/free-icons/typescript)" title="typescript icons">Typescript icons created by Freepik - Flaticon</a>
+<a href="[https://www.flaticon.com/free-icons/react](https://www.flaticon.com/free-icons/react)" title="react icons">React icons created by Kiranshastry - Flaticon</a>
+<a href="[https://www.flaticon.com/br/icones-gratis/java](https://www.flaticon.com/br/icones-gratis/java)" title="java ícones">Java ícones criados por Freepik - Flaticon</a>
+<a href="[https://www.flaticon.com/free-icons/sql](https://www.flaticon.com/free-icons/sql)" title="sql icons">Sql icons created by phatplus - Flaticon</a>
 </details>
 
