@@ -15,7 +15,7 @@ Here's where you can see my begin in web development going from simple HTML page
 <h1>Tech Afro Pretas Journey</h1>
 Here's where I start to know more about backend and do my first two projects using Java.
 <br></br>
-<a href="https://github.com/Luhmaria/TechAfroPretas"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/techafropretas.png"> </a> &nbsp; &nbsp;
+<a href="https://github.com/Luhmaria/TechAfroPretas"> <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/techafropretas.png" style="height: 60px;"> </a> &nbsp; &nbsp;
 <h1> Skills <picture> <img align="center" height="35" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/brain-unscreen.gif"></picture> </h1>
 <picture>
  <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/languages.png" style="width: 30%;">
