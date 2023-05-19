@@ -28,10 +28,12 @@ Here's where I start to know more about backend and do my first two projects usi
 <picture>
  <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/tools.png" style="width: 30%;">
 </picture>
-<!-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luhmaria&show_icons=true&theme=transparent)
+
+<br></br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luhmaria&show_icons=true&theme=transparent) &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhmaria&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 <div align="right" >
  <picture>
   <img width="150" height="150" src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/memoji.png">
