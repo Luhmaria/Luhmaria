@@ -1,5 +1,5 @@
 <picture>
- <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/header-gif-updated.gif">
+ <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/header.gif">
 </picture>
 <br></br>
 🚀 I'm currently a front end developer improving my skills to become a full stack developer. All of my abilities were gained from bootcamps and I share about that on repositories below. Check it out! :) 
