@@ -2,7 +2,7 @@
  <img src="https://raw.githubusercontent.com/Luhmaria/Luhmaria/main/header.gif">
 </picture>
 <br></br>
-🚀 I'm currently a front end developer improving my skills to become a full stack developer. All of my abilities were gained from bootcamps and I share about that on repositories below. Check it out! :) 
+🚀 Front-End Developer on the Path to Software Engineering Degree. Leveraging Bootcamp Skills for Growth. Explore my repositories for insights into my journey
 <br></br>
 <h1>Kenzie Journey</h1>
 Here's where you can see my begin in web development going from simple HTML pages to complex projects using React.
